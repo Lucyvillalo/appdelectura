@@ -1,0 +1,3 @@
+<resources>
+    <style name="Base.Theme.Desafio3DSM" parent="android:Theme.Material.NoActionBar" />
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.Desafio3DSM" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Desafio3DSM" parent="Base.Theme.Desafio3DSM" />
+</resources>
